@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc504560-f4b1-4716-b7eb-ce799d6350a3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Program Files/apache-maven-3.9.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Mm9Ex5yV07maYpM9TuUGBHYePK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "C:/Users/Ramiz/IdeaProjects/KitapYurduCucumber_done/jenkinTest/src/test/java",
+    "last_opened_file_path": "C:/Users/muamm/Desktop/hakan/jenkinTest-master/jenkinTest-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.TestingTest">
+    <configuration name="jenkinTest [clean,test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jenkinTest" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="session1" />
+      <option name="MAIN_CLASS_NAME" value="session1.TestingTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jenkinTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="session1.TestingTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hakan" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jenkinTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.hakan" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.jenkinTest [clean,test]" />
+      <item itemvalue="TestNG.hakan" />
+      <item itemvalue="TestNG.TestingTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestingTest" />
+        <item itemvalue="TestNG.hakan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc504560-f4b1-4716-b7eb-ce799d6350a3" name="Changes" comment="" />
+      <created>1678361783318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678361783318</updated>
+      <workItem from="1678361784524" duration="2652000" />
+      <workItem from="1678364477222" duration="2441000" />
+      <workItem from="1678430069481" duration="31000" />
+      <workItem from="1678689408897" duration="10199000" />
+      <workItem from="1678949882296" duration="2255000" />
+      <workItem from="1678953277077" duration="87000" />
+      <workItem from="1678955952695" duration="837000" />
+      <workItem from="1678969453076" duration="899000" />
+      <workItem from="1679058905320" duration="41000" />
+      <workItem from="1679296961468" duration="7483000" />
+      <workItem from="1679381115549" duration="167000" />
+      <workItem from="1679381320574" duration="435000" />
+      <workItem from="1679383084846" duration="3891000" />
+      <workItem from="1679394845444" duration="3088000" />
+      <workItem from="1679481469200" duration="22000" />
+      <workItem from="1679484504958" duration="84000" />
+      <workItem from="1680250947900" duration="1556000" />
+      <workItem from="1680257993518" duration="3728000" />
+      <workItem from="1680503837211" duration="1159000" />
+      <workItem from="1680509288410" duration="1055000" />
+    </task>
+    <task id="LOCAL-00001" summary="deneme 1">
+      <created>1680251013749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680251013749</updated>
+    </task>
+    <task id="LOCAL-00002" summary="deneme 2">
+      <created>1680251231623</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680251231623</updated>
+    </task>
+    <task id="LOCAL-00003" summary="deneme 2">
+      <created>1680251364476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680251364476</updated>
+    </task>
+    <task id="LOCAL-00004" summary="deneme 2">
+      <created>1680252131127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680252131127</updated>
+    </task>
+    <task id="LOCAL-00005" summary="deneme 3">
+      <created>1680258603486</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680258603486</updated>
+    </task>
+    <task id="LOCAL-00006" summary="deneme 4">
+      <created>1680259163749</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680259163749</updated>
+    </task>
+    <task id="LOCAL-00007" summary="deneme 4">
+      <created>1680259230195</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680259230195</updated>
+    </task>
+    <task id="LOCAL-00008" summary="deneme son">
+      <created>1680509692357</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680509692357</updated>
+    </task>
+    <task id="LOCAL-00009" summary="deneme son">
+      <created>1680509718900</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680509718900</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="deneme 1" />
+    <MESSAGE value="deneme 2" />
+    <MESSAGE value="deneme 3" />
+    <MESSAGE value="deneme 4" />
+    <MESSAGE value="deneme son" />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme son" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
